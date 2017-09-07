@@ -1,10 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Alumno: Miranda Sanchez Maria Fernanda
+ * Grupo: 5IM8.
+ * Version 1.0
+ * Fecha: 06/09/2017
  */
 package solidsingleresponsibility;
-// Esta clase  realiza la declaracion de los datos 
+/**
+ *
+ * @author Fernanda
+ */
+
+/**
+ * Esta clase  realiza la declaracion de los datos 
+ */ 
 
 public class datos {
     private int num1; 
@@ -35,6 +43,8 @@ public class datos {
         this.num2 = num2;
     }
     
-    // define a los parametros que seran obtenidos 
+    /**
+     * Define a los parametros que seran obtenidos 
+     */ 
     
 }
